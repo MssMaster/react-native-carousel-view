@@ -5,7 +5,7 @@ react-native carousel, work on both `iOS` and `android`, test on RN >= 0.45 (if 
 ## Install
 
 ```js
-npm install react-native-carousel-view
+npm install MssMaster/react-native-carousel-view
 ```
 
 **NOTE**: styling in iOS and Android is slightly [different](#difference)
